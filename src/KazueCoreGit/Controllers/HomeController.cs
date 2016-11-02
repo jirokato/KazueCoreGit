@@ -31,10 +31,5 @@ namespace KazueCoreGit.Controllers
         {
             return View();
         }
-
-        public IActionResult Designer()
-        {
-            return View();
-        }
     }
 }
